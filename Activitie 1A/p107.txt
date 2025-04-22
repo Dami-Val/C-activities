@@ -1,0 +1,40 @@
+Hola usuario, en esta nota solo te mostraremos algunos nombres de variables
+y te diremos si son correctos o incorrectos... Bien ¡vamos allá!
+
+
+1 (Opcion), CORRECTO,
+pero es una mala práctica, lo ideal es usar todas las letras minúsculas en cada palabra.
+
+2 (Salario real), ERROR,
+la variable es una palabra única o una encadenada con snake case (_).
+
+
+3 (123valor), ERROR,
+no recuerdo bien, pero el profe dijo que confunde al compilador.
+
+4 (salario_base), CORRECTA,
+precisamente así es como se define una variable con dos palabras.
+
+5 (altura), CORRECTA,
+bien, simple, pero descriptiva.
+
+6 (??base), ERROR, 
+investigué y encontré que no sigue las reglas de las variables, no puede llevar símbolos.
+
+7 ("material1"), CORRECTO,
+un número después de la primera letra puede servir para muchas cosas como enumerar variables, y es correcto.
+
+8 (altura!!!), ERROR,
+un nombre con símbolos no se almacena en una variable, no cumple las reglas.
+
+9 (materia-1), ERROR, 
+"-" es un operador matemático, no hace la misma función que un "_".
+
+10 (---calificación), ERROR,
+bueno, directamente creo que quieres romper tu programa si declaras una variable así XD, 
+los símbolos harán que de error el compilador al no reconocer el texto como variable.
+
+
+Eso es todo, espero hayas aprendido un poco más sobre cómo se escriben
+variables y cómo NO se escriben. Gracias por leer... usuario. :)
+
